@@ -10,3 +10,4 @@ from uriparser import URI
 uri_str = 'your string goes here'
 uri = URI(uri_str)
 print uri.summary()
+
